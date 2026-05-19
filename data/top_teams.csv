@@ -1,0 +1,31 @@
+season,season_label,team,wins,losses,win_pct,pts_for,pts_against,net_rating,playoff_result
+2015,2014-15,Golden State Warriors,67,15,0.817,110.0,99.8,10.2,Champion
+2015,2014-15,Atlanta Hawks,60,22,0.732,103.5,98.5,5.0,Conference Finals
+2015,2014-15,Memphis Grizzlies,55,27,0.671,95.9,90.9,5.0,Conference Semifinals
+2016,2015-16,Golden State Warriors,73,9,0.890,114.5,104.1,10.1,Finals
+2016,2015-16,San Antonio Spurs,67,15,0.817,103.5,95.5,8.0,Conference Semifinals
+2016,2015-16,Cleveland Cavaliers,57,25,0.695,110.9,104.6,6.3,Champion
+2017,2016-17,Golden State Warriors,67,15,0.817,115.9,104.3,11.6,Champion
+2017,2016-17,San Antonio Spurs,61,21,0.744,105.3,97.6,7.7,Conference Finals
+2017,2016-17,Houston Rockets,55,27,0.671,115.3,108.4,6.9,Conference Semifinals
+2018,2017-18,Houston Rockets,65,17,0.793,115.3,106.6,8.7,Conference Finals
+2018,2017-18,Golden State Warriors,58,24,0.707,113.5,107.5,6.0,Champion
+2018,2017-18,Toronto Raptors,59,23,0.720,111.6,105.0,6.6,Conference Semifinals
+2019,2018-19,Milwaukee Bucks,60,22,0.732,118.1,108.3,9.8,Conference Finals
+2019,2018-19,Golden State Warriors,57,25,0.695,117.7,110.3,7.4,Finals
+2019,2018-19,Toronto Raptors,58,24,0.707,114.4,110.9,3.5,Champion
+2020,2019-20,Milwaukee Bucks,56,17,0.767,118.7,108.2,10.5,Conference Semifinals
+2020,2019-20,Los Angeles Lakers,52,19,0.733,113.4,107.6,5.8,Champion
+2020,2019-20,Toronto Raptors,53,19,0.736,115.7,109.4,6.3,Conference Semifinals
+2021,2020-21,Utah Jazz,52,20,0.722,116.5,107.2,9.3,Conference Semifinals
+2021,2020-21,Phoenix Suns,51,21,0.708,116.0,109.3,6.7,Finals
+2021,2020-21,Milwaukee Bucks,46,26,0.639,120.1,113.7,6.4,Champion
+2022,2021-22,Phoenix Suns,64,18,0.780,115.3,109.1,6.2,Conference Semifinals
+2022,2021-22,Memphis Grizzlies,56,26,0.683,115.6,110.4,5.2,Conference Semifinals
+2022,2021-22,Golden State Warriors,53,29,0.646,113.7,107.9,5.8,Champion
+2023,2022-23,Milwaukee Bucks,58,24,0.707,120.0,113.4,6.6,First Round
+2023,2022-23,Boston Celtics,57,25,0.695,118.4,110.1,8.3,Conference Finals
+2023,2022-23,Denver Nuggets,53,29,0.646,115.0,109.8,5.2,Champion
+2024,2023-24,Boston Celtics,64,18,0.780,120.6,110.1,10.5,Champion
+2024,2023-24,Oklahoma City Thunder,57,25,0.695,119.1,111.3,7.8,Conference Semifinals
+2024,2023-24,Minnesota Timberwolves,56,26,0.683,112.1,105.2,6.9,Conference Finals

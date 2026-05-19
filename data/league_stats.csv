@@ -1,0 +1,11 @@
+season,season_label,pts_per_game,pace,3pa_per_game,3pm_per_game,3p_pct,ts_pct,fg_pct,champion
+2015,2014-15,100.0,93.9,22.4,8.0,35.7,52.4,44.5,Golden State Warriors
+2016,2015-16,102.7,95.8,24.4,8.8,36.0,53.9,45.2,Cleveland Cavaliers
+2017,2016-17,105.6,96.4,27.0,10.0,37.1,54.8,45.6,Golden State Warriors
+2018,2017-18,106.3,97.3,29.0,10.5,36.2,55.4,45.6,Golden State Warriors
+2019,2018-19,111.2,100.0,31.9,11.4,35.8,55.9,46.0,Toronto Raptors
+2020,2019-20,111.8,100.3,33.9,12.2,35.9,56.3,46.1,Los Angeles Lakers
+2021,2020-21,112.1,99.2,35.2,12.7,36.1,56.8,46.4,Milwaukee Bucks
+2022,2021-22,112.1,98.2,35.2,12.4,35.2,56.6,46.1,Golden State Warriors
+2023,2022-23,114.7,99.2,34.9,12.4,35.5,57.3,46.7,Denver Nuggets
+2024,2023-24,114.8,99.7,35.1,12.7,36.1,58.1,47.0,Boston Celtics
